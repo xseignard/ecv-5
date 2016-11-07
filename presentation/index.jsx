@@ -225,7 +225,7 @@ const Presentation = () => (
 				<Heading size={1} fit caps lineHeight={1} textColor="white">
 					Flexbox Froggy
 				</Heading>
-				<Link href="http://flexboxfroggy.com/" target="_blank">http://flexboxfroggy.com/</Link>
+				<Link href="http://flexboxfroggy.com/#fr" target="_blank">http://flexboxfroggy.com/#fr</Link>
 			</Slide>
 			<Slide bgColor="primary">
 				<Heading size={1} fit caps lineHeight={1} textColor="white">
